@@ -1,0 +1,35 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    background: red;
+    color: white;
+    text-align: center;
+}
+
+a {
+    font-size: 18px;
+    text-decoration: none;
+    color: green;
+}
+
+#descripcion,
+#titulo
+{
+    border: 3px solid black;
+    padding: 15px;
+}
+
+#titulo {
+    background: blue;
+    border: 2px dashed;
+}
+
+
+.parrafo {
+    color: orange;
+    font-style: italic;
+    
+}
+
